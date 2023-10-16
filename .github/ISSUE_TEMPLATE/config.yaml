@@ -1,4 +1,5 @@
 blank_issues_enabled: false  # allows the creation of blank issues
 contact_links:
   - name: Support
-    about: Contact Daniel Mahon for support (mahon@1qlabs.ai)
+    url: mailto:mahon@1qlabs.ai
+    about: Contact Daniel Mahon for support
