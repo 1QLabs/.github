@@ -1,0 +1,11 @@
+{
+  "name": "github",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sync:labels": "./scripts/sync-labels.sh"
+  },
+  "author": "",
+  "license": "ISC"
+}
