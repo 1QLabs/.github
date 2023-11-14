@@ -1,45 +1,29 @@
 ---
-name: Feature Request
-about: Propose a new feature or improvement
+name: Feature or Improvement Request
+about: Propose a new feature or improvement as a user story
 title: '[FEATURE]'
 labels: enhancement
 assignees: ''
 ---
 
-### Problem:
-
-_Describe the problem or challenge you're facing._
-
-### Objective:
-
-_What are you aiming to achieve with this feature or improvement?_
+_As a [type of user], I want [a goal] so that [benefit or reason]._
 
 ### Requirements:
 
-1. _Main requirement or goal._
-   - _Sub-detail or specific step._
-   - _Another sub-detail._
+1. _Criterion that defines a successful implementation of the user story._
+2. _Another criterion._
+3. _Additional criteria as needed._
 
-2. _Another main requirement._
-   - _Sub-detail or specific step._
-   - _Another sub-detail._
+### Implementation Details:
 
-3. _... and so on._
-
-### Proposed Solution:
-
-_Describe a potential solution or approach to address the objective._
-
-1. _Main step or component of the solution._
-   - _Specific action or detail._
-   - _Another specific action or detail._
-
-2. _Another main step or component._
-   - _Specific action or detail._
-   - _Another specific action or detail._
+_Briefly outline the technical approach or key components for achieving this user story._
 
 ### Tasks:
 
-- [ ] _List out specific tasks or steps to implement the proposed solution._
+- [ ] _Task or action item needed to implement this story._
 - [ ] _Another task._
-- [ ] _... and so on._
+- [ ] _Additional tasks as needed._
+
+### Notes:
+
+_Any additional information or context about the user story._
