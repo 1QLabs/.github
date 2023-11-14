@@ -6,31 +6,27 @@ labels: bug
 assignees: ''
 ---
 
-### Describe the bug:
+_Provide a concise description of the bug._
 
-A clear and concise description of what the bug is.
+### Steps to Reproduce:
 
-### Steps to reproduce:
+1. _First step to reproduce the bug._
+2. _Second step._
+3. _Additional steps as necessary._
 
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+### Expected Behavior:
 
-### Expected behavior:
+_Describe what you expect to happen under normal circumstances._
 
-A clear and concise description of what you expected to happen.
+### Actual Behavior:
 
-### Screenshots:
+_Describe what actually happens, including any error messages or unexpected results._
 
-If applicable, add screenshots to help explain your problem.
+### Impact:
 
-### Environment:
+_Briefly detail the impact of this bug, such as affected features or user experience._
 
-- OS: [e.g. iOS, Windows]
-- Browser: [e.g. Chrome, Safari]
-- Version: [e.g. 22]
+### Screenshots or Additional Information:
 
-### Additional context:
+_Attach any relevant screenshots, logs, or details that could help in diagnosing the problem._
 
-Add any other context about the problem here.
